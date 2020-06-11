@@ -11,7 +11,7 @@ Using the pandas and scikit-learn libraries the data is calibrated to the true e
 In order to 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=frac{epepe \pipi} = -1">
 
 
 .csv files created using a geant 4 simmulation of a detector with multiple solids
