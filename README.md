@@ -11,7 +11,7 @@ Using the pandas and scikit-learn libraries the data is calibrated to the true e
 In order to 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=frac{epepe \pipi} = -1">
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 
 
 .csv files created using a geant 4 simmulation of a detector with multiple solids
