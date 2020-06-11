@@ -8,11 +8,7 @@ Using Geant4 on c++ to simulate an experiment. The experiment simulated is firin
 Using the pandas and scikit-learn libraries the data is calibrated to the true energy of the particle and a train test split used to generate the training and testing data.
 
 ## 3) Data Validation
-In order to 
-
-
-![equation](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bcalibratedenergy-true energy%7D%7Btrueenergy%7D)  
-
+In order to check the quality of the data histograms of $(calibrated energy - true energy)/true energy$ .
 
 .csv files created using a geant 4 simmulation of a detector with multiple solids
 used ML to distinguish protons from electrons fired at the detector in the simulation
