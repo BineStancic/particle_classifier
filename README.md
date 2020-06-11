@@ -11,7 +11,7 @@ Using the pandas and scikit-learn libraries the data is calibrated to the true e
 In order to 
 
 
-![equation](http://latex.codecogs.com/gif.latex?frac%7BTotalTemplate%7D%7BTotalVolume%7D)  
+![equation](http://latex.codecogs.com/gif.latex?%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 
 
 .csv files created using a geant 4 simmulation of a detector with multiple solids
